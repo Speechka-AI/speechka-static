@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7271],{57271:(n,e,r)=>{let t;r.d(e,{G:()=>k,bindTokenOwner:()=>c,tokenOwner:()=>s,tokenOwnerEpoch:()=>o});let u=0;function c(n){return t!==n&&(t=n,++u,!0)}function o(){return u}function s(){return t}class k extends Error{constructor(){super("Аккаунт изменился. Повторите действие.")}}}}]);
